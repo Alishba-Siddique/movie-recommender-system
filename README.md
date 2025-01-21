@@ -100,8 +100,5 @@ pickle5>=0.0.11  # If using Python < 3.8
 
 - [TMDb API](https://www.themoviedb.org/documentation/api) for movie data
 - [Streamlit](https://streamlit.io/) for the web interface
-- All the contributors who help improve this project
-
-## 📞 Contact
 
 Project Link: ([https://movie-recommender-system-web-c548179c70e6.herokuapp.com/](https://movie-recommender-system-web-c548179c70e6.herokuapp.com/))
