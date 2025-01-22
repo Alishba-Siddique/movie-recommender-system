@@ -138,7 +138,7 @@ import pandas as pd
 import requests
 
 def fetch_poster(movie_id):
-    api_key = "32e3c8edfbaa6f84c330cdc520b78b3e"  # Replace with your TMDb API key
+    api_key = ""  # Replace with your TMDb API key
     url = f"https://api.themoviedb.org/3/movie/{movie_id}?api_key={api_key}&language=en-US"
     try:
         response = requests.get(url)
