@@ -85,7 +85,7 @@
 
 # # Function to fetch poster
 # def fetch_poster(movie_id):
-#     api_key = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzMmUzYzhlZGZiYWE2Zjg0YzMzMGNkYzUyMGI3OGIzZSIsIm5iZiI6MTczNzQ3MTE4OC4yODgsInN1YiI6IjY3OGZiNGQ0ZjNiYTAxOGI3MWYwODU1MiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.jhEwj_xQM1RUk4TXMA2-vDrjyB1LsMeinnKt2RBJp64"  # Replace with your TMDb API key
+#     api_key = ""  # Replace with your TMDb API key
 #     url = f"https://api.themoviedb.org/3/movie/{movie_id}?api_key={api_key}&language=en-US"
 #     response = requests.get(url)
 #     if response.status_code == 200:
